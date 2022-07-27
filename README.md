@@ -4,7 +4,7 @@
 
 ## What?
 
-A 60 day challenge. Every day I'll be solving a [codewars](https://www.codewars.com/) kata and uploading a commented resolution to this repo. I'll be also tweeting about it at [@yagopajarino](https://twitter.com/yagopajarino)
+A 60 day coding challenge. Every day I'll be solving a [codewars](https://www.codewars.com/) kata and uploading a commented resolution to this repo. I'll be also tweeting about it at [@yagopajarino](https://twitter.com/yagopajarino)
 
 ## Why?
 
@@ -14,4 +14,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 
 ## Index
 
-- 1 of 60
+- [1 of 60](./solutions/1.md)
