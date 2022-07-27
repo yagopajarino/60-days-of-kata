@@ -14,4 +14,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 
 ## Index
 
-- [1 of 60](./solutions/1.md)
+- [Day 1: Two to One](./solutions/1.md)
