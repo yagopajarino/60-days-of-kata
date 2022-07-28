@@ -15,3 +15,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 ## Index
 
 - [Day 1: Two to One](./solutions/1.md)
+- [Day 2: Power of Two](./solutions/2.md)
