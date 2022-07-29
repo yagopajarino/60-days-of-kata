@@ -16,3 +16,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 
 - [Day 1: Two to One](./solutions/1.md)
 - [Day 2: Power of Two](./solutions/2.md)
+- [Day 3: Who likes it?](./solutions/3.md)
