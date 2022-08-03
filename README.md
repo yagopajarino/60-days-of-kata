@@ -21,3 +21,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 5: Sort the odd](./solutions/5.md)
 - [Day 6: Your order, please](./solutions/6.md)
 - [Day 7: Human Readable Time](./solutions/7.md)
+- [Day 8: Growth of a Population](./solutions/8.md)
