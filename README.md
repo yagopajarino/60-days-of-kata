@@ -24,3 +24,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 8: Growth of a Population](./solutions/8.md)
 - [Day 9: Does my number look big in this?](./solutions/9.md)
 - [Day 10: Does my number look big in this?](./solutions/10.md)
+- [Day 11: Simple Pig Latin](./solutions/11.md)
