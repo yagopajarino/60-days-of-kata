@@ -27,3 +27,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 11: Simple Pig Latin](./solutions/11.md)
 - [Day 12: Find the missing term in an Arithmetic Progression](./solutions/12.md)
 - [Day 13: Help the general decode secret enemy messages](./solutions/13.md)
+- [Day 14: Bit Counting](./solutions/14.md)
