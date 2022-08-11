@@ -29,3 +29,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 13: Help the general decode secret enemy messages](./solutions/13.md)
 - [Day 14: Bit Counting](./solutions/14.md)
 - [Day 15: Printer Errors](./solutions/15.md)
+- [Day 16: Count of positives / sum of negatives](./solutions/16.md)
