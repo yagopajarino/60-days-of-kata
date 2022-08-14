@@ -32,3 +32,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 16: Count of positives / sum of negatives](./solutions/16.md)
 - [Day 17: Fake Binary](./solutions/17.md)
 - [Day 18: Valid Parentheses](./solutions/18.md)
+- [Day 19: Exes and Ohs](./solutions/19.md)
