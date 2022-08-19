@@ -37,3 +37,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 21: Remove the minimum](./solutions/21.md)
 - [Day 22: Where my anagrams at?](./solutions/22.md)
 - [Day 23: Last digit of a large number](./solutions/23.md)
+- [Day 24: DNA to RNA Conversion](./solutions/24.md)
