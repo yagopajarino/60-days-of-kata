@@ -39,3 +39,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 23: Last digit of a large number](./solutions/23.md)
 - [Day 24: DNA to RNA Conversion](./solutions/24.md)
 - [Day 25: Highest and Lowest](./solutions/25.md)
+- [Day 26: Friend or Foe?](./solutions/26.md)
