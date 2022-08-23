@@ -41,3 +41,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 25: Highest and Lowest](./solutions/25.md)
 - [Day 26: Friend or Foe?](./solutions/26.md)
 - [Day 27: Rot13](./solutions/27.md)
+- [Day 28: The Hashtag Generator](./solutions/28.md)
