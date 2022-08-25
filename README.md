@@ -43,3 +43,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 27: Rot13](./solutions/27.md)
 - [Day 28: The Hashtag Generator](./solutions/28.md)
 - [Day 29: Weight for weight](./solutions/29.md)
+- [Day 30: Scramblies](./solutions/30.md)
