@@ -45,3 +45,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 29: Weight for weight](./solutions/29.md)
 - [Day 30: Scramblies](./solutions/30.md)
 - [Day 31: Number of trailing zeros of N!](./solutions/31.md)
+- [Day 32: Simple Fun #52: Pair Of Shoes](./solutions/32.md)
