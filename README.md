@@ -23,7 +23,7 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 7: Human Readable Time](./solutions/7.md)
 - [Day 8: Growth of a Population](./solutions/8.md)
 - [Day 9: Does my number look big in this?](./solutions/9.md)
-- [Day 10: Does my number look big in this?](./solutions/10.md)
+- [Day 10: First non-repeating character](./solutions/10.md)
 - [Day 11: Simple Pig Latin](./solutions/11.md)
 - [Day 12: Find the missing term in an Arithmetic Progression](./solutions/12.md)
 - [Day 13: Help the general decode secret enemy messages](./solutions/13.md)
