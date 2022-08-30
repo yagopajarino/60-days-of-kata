@@ -48,3 +48,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 32: Simple Fun #52: Pair Of Shoes](./solutions/32.md)
 - [Day 33: Mexican Wave](./solutions/33.md)
 - [Day 34: Unique In Order](./solutions/34.md)
+- [Day 35: Complementary DNA](./solutions/35.md)
