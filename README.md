@@ -50,3 +50,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 34: Unique In Order](./solutions/34.md)
 - [Day 35: Complementary DNA](./solutions/35.md)
 - [Day 36: You're a square!](./solutions/36.md)
+- [Day 37: Grasshopper - Grade book](./solutions/37.md)
