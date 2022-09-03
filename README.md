@@ -52,3 +52,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 36: You're a square!](./solutions/36.md)
 - [Day 37: Grasshopper - Grade book](./solutions/37.md)
 - [Day 38: Categorize New Member](./solutions/38.md)
+- [Day 39: Take a Ten Minutes Walk](./solutions/39.md)
