@@ -55,3 +55,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 39: Take a Ten Minutes Walk](./solutions/39.md)
 - [Day 40: Coloured Triangles](./solutions/40.md)
 - [Day 41: Counting Array Elements](./solutions/41.md)
+- [Day 42: Row Weights](./solutions/42.md)
