@@ -60,3 +60,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 44: Next bigger number with the same digits](./solutions/44.md)
 - [Day 45: Tribonacci Sequence](./solutions/45.md)
 - [Day 46: String incrementer](./solutions/46.md)
+- [Day 47: Perimeter of squares in a rectangle](./solutions/47.md)
