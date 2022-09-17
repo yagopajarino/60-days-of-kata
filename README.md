@@ -66,3 +66,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 50: Can you get the loop?](./solutions/50.md)
 - [Day 51: Zero-plentiful Array](./solutions/51.md)
 - [Day 52: Help the bookseller !](./solutions/52.md)
+- [Day 53: Handshake problem](./solutions/53.md)
