@@ -71,3 +71,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 55: 1RM Calculator](./solutions/55.md)
 - [Day 56: Regex validate PIN code](./solutions/56.md)
 - [Day 57: Snail](./solutions/57.md)
+- [Day 58: Ones and Zeros](./solutions/58.md)
