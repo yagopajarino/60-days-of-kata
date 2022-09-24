@@ -1,16 +1,20 @@
-# 60 Days of Kata
+# ~60~ 90 Days of Kata
 
 > Wax on, wax off. Wax on, wax off. - **Mr Miyagi**
 
 ## What?
 
-A 60 day coding challenge. Every day I'll be solving a [codewars](https://www.codewars.com/) kata and uploading a commented resolution to this repo. I'll be also tweeting about it at [@yagopajarino](https://twitter.com/yagopajarino)
+A ~60~ 90 day coding challenge. Every day I'll be solving a [codewars](https://www.codewars.com/) kata and uploading a commented resolution to this repo. I'll be also tweeting about it at [@yagopajarino](https://twitter.com/yagopajarino)
 
 ## Why?
 
 As famous Mr. Miyagi taught to Daniel San, patience and practice are the best allies to learn karate (and might work as well with coding).
 
 But solving problems is not the only skill a developer should dominate. Explaining to others how you solve a problem and what the algorithm you designed do is major part of software development.
+
+## Updates
+
+I decided to extend the challenge another 30 days. Solving a kata per day pretty much became a habit :)
 
 ## Index
 
