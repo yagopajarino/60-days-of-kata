@@ -73,3 +73,4 @@ But solving problems is not the only skill a developer should dominate. Explaini
 - [Day 57: Snail](./solutions/57.md)
 - [Day 58: Ones and Zeros](./solutions/58.md)
 - [Day 59: Sudoku Solver](./solutions/59.md)
+- [Day 60: Find the missing letter](./solutions/60.md)
