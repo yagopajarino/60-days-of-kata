@@ -78,3 +78,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 58: Ones and Zeros](./solutions/58.md)
 - [Day 59: Sudoku Solver](./solutions/59.md)
 - [Day 60: Find the missing letter](./solutions/60.md)
+- [Day 61: Find the smallest integer in the array](./solutions/61.md)
