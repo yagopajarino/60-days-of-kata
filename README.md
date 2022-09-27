@@ -80,3 +80,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 60: Find the missing letter](./solutions/60.md)
 - [Day 61: Find the smallest integer in the array](./solutions/61.md)
 - [Day 62: Quarter of the year](./solutions/62.md)
+- [Day 63: Do I get a bonus?](./solutions/63.md)
