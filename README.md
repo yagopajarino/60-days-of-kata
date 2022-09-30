@@ -82,3 +82,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 62: Quarter of the year](./solutions/62.md)
 - [Day 63: Do I get a bonus?](./solutions/63.md)
 - [Day 64: Count the smiley faces!](./solutions/64.md)
+- [Day 65: Convert a string to an array](./solutions/65.md)
