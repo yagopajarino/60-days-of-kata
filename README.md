@@ -84,3 +84,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 64: Count the smiley faces!](./solutions/64.md)
 - [Day 65: Convert a string to an array](./solutions/65.md)
 - [Day 66: Estimating Amounts of Subsets](./solutions/66.md)
+- [Day 67: CamelCase Method](./solutions/67.md)
