@@ -88,3 +88,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 68: All unique](./solutions/68.md)
 - [Day 69: Persistent Bugger.](./solutions/69.md)
 - [Day 70: Tic-Tac-Toe Checker](./solutions/70.md)
+- [Day 71: Playing with digits](./solutions/71.md)
