@@ -91,3 +91,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 71: Playing with digits](./solutions/71.md)
 - [Day 72: Length of missing array](./solutions/72.md)
 - [Day 73: Square(n) Sum](./solutions/73.md)
+- [Day 74: Mumbling](./solutions/74.md)
