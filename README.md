@@ -94,3 +94,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 74: Mumbling](./solutions/74.md)
 - [Day 75: Double Char](./solutions/75.md)
 - [Day 76: Count IP Agresses](./solutions/76.md)
+- [Day 77: Sum of two lowest positive integers](./solutions/77.md)
