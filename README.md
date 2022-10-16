@@ -98,3 +98,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 79: Equal Sides Of An Array](./solutions/79.md)
 - [Day 80: Football - Yellow and Red Cards](./solutions/80.md)
 - [Day 81: Write Number in Expanded Form](./solutions/81.md)
+- [Day 82: Delete occurrences of an element if it occurs more than n times](./solutions/82.md)
