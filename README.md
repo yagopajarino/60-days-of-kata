@@ -99,3 +99,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 80: Football - Yellow and Red Cards](./solutions/80.md)
 - [Day 81: Write Number in Expanded Form](./solutions/81.md)
 - [Day 82: Delete occurrences of an element if it occurs more than n times](./solutions/82.md)
+- [Day 83: ]Reverse every other word in the string](./solutions/83.md)
