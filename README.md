@@ -103,3 +103,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 84: Permute a Palindrome](./solutions/84.md)
 - [Day 85: 5 without numbers !!](./solutions/85.md)
 - [Day 86: Fizz Buzz](./solutions/86.md)
+- [Day 87: +1 Array](./solutions/87.md)
