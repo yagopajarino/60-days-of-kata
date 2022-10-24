@@ -106,3 +106,4 @@ I decided to extend the challenge another 30 days. Solving a kata per day pretty
 - [Day 87: +1 Array](./solutions/87.md)
 - [Day 88: Sum Arrays](./solutions/88.md)
 - [Day 89: Sum of positive](./solutions/89.md)
+- [Day 90: Directions Reduction](./solutions/90.md)
